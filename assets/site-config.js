@@ -1,6 +1,6 @@
 window.GRADUS_SITE_CONFIG = {
-  // Replace this empty value before external TestFlight or App Store submission.
-  supportEmail: "",
+  // Confirm this inbox receives messages before external TestFlight or App Store submission.
+  supportEmail: "support@graduspractice.com",
 
   // Optional until the public App Store listing exists.
   appStoreURL: ""
