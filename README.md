@@ -1,10 +1,7 @@
-# Gradus Website
+# Gradus website
 
-The public website for Gradus, including the product overview, privacy policy,
-and support information.
+Static site for graduspractice.com, published with GitHub Pages from `main`.
 
-## Public Pages
-
-- `/` product overview
-- `/privacy/` privacy policy
-- `/support/` support information
+- `/` short description of the app
+- `/privacy/` privacy policy (linked from the app and App Store Connect)
+- `/support/` support contact and common answers
